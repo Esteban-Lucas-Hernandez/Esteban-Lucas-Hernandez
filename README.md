@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mí
 Full Stack Developer | Apasionado por el código limpio y funcional  
-Especializado en **Spring Boot, React, Laravel, Django, Angular, JS y CSS**  
+Especializado en **Spring Boot, React, Laravel, Django, Angular, JS, CSS, PostgreSQL y MySQL**  
 Desde **Colombia 🇨🇴**
 
 ---
@@ -15,6 +15,8 @@ Desde **Colombia 🇨🇴**
 ![Laravel](https://img.shields.io/badge/Laravel-F0512D?style=flat&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
