@@ -22,13 +22,17 @@ Desde **Colombia 🇨🇴**
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td>
 <img src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="180"/>
-
+</td>
+<td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban-Lucas-Hernandez&theme=material-palenight&hide_border=true" height="180"/>
+</td>
+</tr>
+</table>
 
-</div>
 
 ---
 
