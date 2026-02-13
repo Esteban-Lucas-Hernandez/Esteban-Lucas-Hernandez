@@ -20,6 +20,13 @@ Desde **Colombia 🇨🇴**
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Esteban-Lucas-Hernandez)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Esteban-Lucas-Hernandez&theme=material-palenight)](https://github.com/Esteban-Lucas-Hernandez)
+
+---
+
 ## 📫 Conéctate conmigo
 
 🔗 [LinkedIn](https://www.linkedin.com/in/esteban-david-lucas-hern%C3%A1ndez-6ab481375)  
@@ -29,17 +36,3 @@ Desde **Colombia 🇨🇴**
 
 ⭐ ¡Gracias por visitar mi perfil!
 
-<!--
-**Esteban-Lucas-Hernandez/Esteban-Lucas-Hernandez** is a ✨ _special_ ✨ repository beause its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
