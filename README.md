@@ -22,7 +22,7 @@ Desde **Colombia 🇨🇴**
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Esteban-Lucas-Hernandez)  
+[![GitHub Stats](https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Esteban-Lucas-Hernandez)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Esteban-Lucas-Hernandez&theme=material-palenight)](https://github.com/Esteban-Lucas-Hernandez)
 
 ---
