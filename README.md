@@ -24,12 +24,11 @@ Desde **Colombia 🇨🇴**
 
 <div align="center">
 
-<img src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es&name=Esteban%20Lucas%20Hernandez" width="48%" />
+<img src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es&custom_title=Esteban%20Lucas%20Hernandez%27s%20GitHub%20Stats" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban-Lucas-Hernandez&theme=material-palenight&hide_border=true" width="48%" />
 
 </div>
-
 
 ---
 
