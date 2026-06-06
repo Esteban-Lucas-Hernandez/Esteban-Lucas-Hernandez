@@ -105,7 +105,7 @@ estado       : 🟢 Disponible para colaborar
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban-Lucas-Hernandez&theme=tokyonight&hide_border=true&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=Esteban-Lucas-Hernandez&theme=tokyonight&hide_border=true&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&background=0D1117" />
 </div>
 
 ---
