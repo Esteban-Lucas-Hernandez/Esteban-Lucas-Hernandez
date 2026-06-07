@@ -100,7 +100,7 @@ estado       : 🟢 Disponible para colaborar
 
 <img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es&hide_title=false&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api/top-langs/?username=Esteban-Lucas-Hernandez&layout=compact&theme=tokyonight&hide_border=true&locale=es&title_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api/top-langs/?username=Esteban-Lucas-Hernandez&layout=compact&theme=tokyonight&hide_border=true&locale=es&title_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&langs_count=8&v=1" />
 
 </div>
 
