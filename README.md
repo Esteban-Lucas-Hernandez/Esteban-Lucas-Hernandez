@@ -161,7 +161,7 @@ drwxr-xr-x  proyectos/
 ## `$ contribution snake`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Esteban-Lucas-Hernandez/Esteban-Lucas-Hernandez/output/gitlab-dark.svg" width="100%" />
 </div>
 
 
