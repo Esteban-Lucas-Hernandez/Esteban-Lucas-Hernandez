@@ -161,7 +161,7 @@ drwxr-xr-x  proyectos/
 ## `$ contribution snake`
 
 <div align="center">
-  <img src="github-user-contribution.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/esteban-lucas-hernandez/esteban-lucas-hernandez/output/gitlab-dark.svg" width="100%" />
 </div>
 
 
