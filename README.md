@@ -101,18 +101,18 @@ estado       : 🟢 Disponible para colaborar
 ## `$ git log --stats`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es&hide_title=false&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api/top-langs/?username=Esteban-Lucas-Hernandez&layout=compact&theme=tokyonight&hide_border=true&locale=es&title_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&langs_count=8&v=1" />
-
+  <!-- Tarjeta de Estadísticas sola arriba para que el nombre completo quepa bien -->
+  <img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=Esteban-Lucas-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&locale=es&hide_title=false&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Esteban-Lucas-Hernandez&theme=tokyonight&hide_border=true&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&background=0D1117" />
+  <!-- Lenguajes y Racha en el medio (ambas con height="180em" para que queden simétricas) -->
+  <img height="180em" src="https://github-readme-stats-taupe-one-95.vercel.app/api/top-langs/?username=Esteban-Lucas-Hernandez&layout=compact&theme=tokyonight&hide_border=true&locale=es&title_color=00FFB3&text_color=FFFFFF&bg_color=0D1117&count_private=true&langs_count=8&v=1" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Esteban-Lucas-Hernandez&theme=tokyonight&hide_border=true&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&background=0D1117" />
 </div>
 
 <div align="center">
+  <!-- Gráfico de actividad solo abajo -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esteban-Lucas-Hernandez&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF" width="100%"/>
 </div>
 
