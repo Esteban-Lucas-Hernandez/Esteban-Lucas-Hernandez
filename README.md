@@ -161,10 +161,9 @@ drwxr-xr-x  proyectos/
 ## `$ contribution snake`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="github-user-contribution.svg" width="100%" />
 </div>
 
-> 💡 *Genera esta animación automáticamente con la [GitHub Action de Platane](https://github.com/Platane/snk) una vez publiques este README en tu repo de perfil.*
 
 ---
 
