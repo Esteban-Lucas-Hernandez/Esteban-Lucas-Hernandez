@@ -113,10 +113,6 @@ estado       : 🟢 Disponible para colaborar
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esteban-Lucas-Hernandez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esteban-Lucas-Hernandez&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF" width="100%"/>
 </div>
 
