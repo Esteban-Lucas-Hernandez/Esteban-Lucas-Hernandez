@@ -122,14 +122,14 @@ estado       : 🟢 Disponible para colaborar
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   Soy un desarrollador Full Stack apasionado por construir        │
-│   sistemas que resuelven problemas reales. Me mueve la            │
-│   arquitectura limpia, el rendimiento y el código que otros       │
-│   desarrolladores disfrutan leer y mantener.                      │
-│                                                                   │
-│   Mi filosofía: cada línea de código es una decisión de diseño.  │
-│                                                                   │
+│                                                                 │
+│   Soy un desarrollador Full Stack apasionado por construir      │
+│   sistemas que resuelven problemas reales. Me mueve la          │
+│   arquitectura limpia, el rendimiento y el código que otros     │
+│   desarrolladores disfrutan leer y mantener.                    │
+│                                                                 │
+│   Mi filosofía: cada línea de código es una decisión de diseño. │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
