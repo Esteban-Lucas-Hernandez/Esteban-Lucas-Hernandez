@@ -108,7 +108,7 @@ estado       : 🟢 Disponible para oportunidades laborales
 ### 🏨 [Go Reser — Plataforma de Reservas Hoteleras](https://github.com/Esteban-Lucas-Hernandez)
 * **Stack:** `Java 17` • `Spring Boot 3` • `Spring Security (JWT)` • `PostgreSQL` • `Docker`
 * **Descripción:** API RESTful desacoplada con control de acceso basado en roles (**RBAC**), autenticación con JWT, validaciones transaccionales y pruebas de endpoints documentadas con Swagger.
-* 🔗 **[Ver Demo en Vivo](https://go-reser-api-rest-full-stack-spring-r46x.onrender.com/public)** | 💻 **[Ver Código en GitHub](https://github.com/Esteban-Lucas-Hernandez)**
+* 🔗 **[Ver Demo en Vivo](https://go-reser-api-rest-full-stack-spring-r46x.onrender.com/public)** | 💻 **[Ver Código en GitHub](https://github.com/Esteban-Lucas-Hernandez/GO_RESER--API-REST--Full-Stack-Spring-Angular-PostgreSQL)**
 
 <br/>
 
@@ -122,7 +122,7 @@ estado       : 🟢 Disponible para oportunidades laborales
 ### 🛋️ [LuxuryHome — Catálogo E-Commerce & Visualizador 3D](https://github.com/Esteban-Lucas-Hernandez)
 * **Stack:** `React` • `Three.js` • `Python (Django REST)` • `PostgreSQL`
 * **Descripción:** Interfaz interactiva desarrollada en React con renderizado y visualización 3D en tiempo real con Three.js para catálogo de mobiliario.
-* 💻 **[Ver Código en GitHub](https://github.com/Esteban-Lucas-Hernandez)**
+* 💻 **[Ver Código en GitHub](https://github.com/Esteban-Lucas-Hernandez/LuxuryHome)**
 
 <br/>
 
