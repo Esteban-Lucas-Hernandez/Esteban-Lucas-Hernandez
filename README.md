@@ -198,7 +198,7 @@ estado       : 🟢 Disponible para oportunidades laborales
 <a href="https://portafolio-esteban-lucas.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio_Web-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
-<a href="mailto:lucashernandez12312006@gmail.com">
+<a href="mailto:lucashernandez.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/573004554430" target="_blank">
