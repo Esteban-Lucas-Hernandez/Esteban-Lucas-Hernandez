@@ -158,12 +158,12 @@ estado       : 🟢 Disponible para oportunidades laborales
 │   Desarrollador Full Stack enfocado en Java (Spring Boot), .NET (C#)   │
 │   y React con TypeScript.                                              │
 │                                                                        │
-│   Graduado como Tecnólogo en Análisis y Desarrollo de Software (ADSO) │
-│   en el SENA y estudiante de Ingeniería de Software en la             │
-│   Corporación Universitaria Iberoamericana.                           │
+│   Graduado como Tecnólogo en Análisis y Desarrollo de Software (ADSO)  │
+│   en el SENA y estudiante de Ingeniería de Software en la              │
+│   Corporación Universitaria Iberoamericana.                            │
 │                                                                        │
 │   Enfoque en Clean Architecture, APIs RESTful seguras y desarrollo     │
-│   de soluciones prácticas y mantenibles.                              │
+│   de soluciones prácticas y mantenibles.                               │
 │                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
